@@ -53,6 +53,6 @@ class Particle {
   render() {
     noStroke();
     fill(this.col);
-    ellipse(this.x, this.y, this.diameter, this.diameter); //had to make x and y this.x and this.y
+    ellipse(this.x, this.y, this.diameter, this.diameter); //had to make x and y this.x and this.y dcojdoicjdc
   }
 }
